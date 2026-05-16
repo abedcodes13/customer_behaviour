@@ -144,7 +144,7 @@ cd <project-folder>
 ### 2. Install Required Libraries
 
 ```bash
-pip install pandas numpy matplotlib seaborn psycopg2
+pip install pandas psycopg2
 ```
 
 ### 3. Run the Jupyter Notebook
