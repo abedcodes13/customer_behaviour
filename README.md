@@ -34,11 +34,6 @@ The data was analyzed to identify trends, customer behaviour patterns, and busin
 The following tools and technologies were used throughout the project:
 
 * **Python**
-
-  * Pandas
-  * NumPy
-  * Matplotlib
-  * Seaborn
 * **Jupyter Notebook**
 * **PostgreSQL**
 * **SQL**
@@ -70,7 +65,7 @@ Performed analysis to understand:
 * Purchase frequency
 * Relationship between age, gender, and spending behaviour
 
-Visualizations were created using Matplotlib and Seaborn.
+Visualizations were created using PowerBI.
 
 ### 4. SQL Analysis (PostgreSQL)
 
